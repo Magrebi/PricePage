@@ -125,7 +125,7 @@ h3 {
 }
 
 .sign {
-    width: 90%;
+    width: 100%;
     height: 45px;
     border: none;
     border-radius: 5px;
@@ -237,9 +237,9 @@ h3 {
     }
     
     .right {
-        color: #8bdcdd;
+        color: #92f4f6;
         margin-top: 5px;
-        font-size: 12px;
+        font-size: 14px;
     }
     
     .sign {
